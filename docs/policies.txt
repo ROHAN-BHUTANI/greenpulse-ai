@@ -1,0 +1,4 @@
+Indian AQI above 300 is considered hazardous.
+CO2 levels above 450 ppm may indicate industrial emissions.
+Traffic congestion significantly increases urban air pollution.
+Heatwaves above 42 degrees require emergency city response.
