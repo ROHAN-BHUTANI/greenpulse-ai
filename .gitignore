@@ -1,4 +1,6 @@
 venv/
+greenpulse-pathway/venv/
+greenpulse-pathway/live_output.csv
 __pycache__/
-.env
 *.pyc
+.env
